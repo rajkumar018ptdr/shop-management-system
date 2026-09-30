@@ -1,0 +1,32 @@
+{
+    "B0001": {
+        "bill_id": "B0001",
+        "date": "2026-09-29",
+        "time": "17:04:33",
+        "customer_id": "",
+        "items": [
+            {
+                "product_id": "P0001",
+                "name": "Safe",
+                "quantity": 2,
+                "selling_price": 25.0,
+                "buying_price": 20.0,
+                "subtotal": 50.0,
+                "cost": 40.0
+            },
+            {
+                "product_id": "P0002",
+                "name": "Rr",
+                "quantity": 2,
+                "selling_price": 9999.0,
+                "buying_price": 89.0,
+                "subtotal": 19998.0,
+                "cost": 178.0
+            }
+        ],
+        "total": 20048.0,
+        "cost": 218.0,
+        "profit": 19830.0,
+        "payment_mode": "cash"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "P0001": {
+        "name": "Safe",
+        "category": "wire",
+        "buying_price": 20.0,
+        "selling_price": 25.0,
+        "quantity": 198,
+        "unit": "m",
+        "low_stock_limit": 5
+    },
+    "P0002": {
+        "name": "Rr",
+        "category": "og",
+        "buying_price": 89.0,
+        "selling_price": 9999.0,
+        "quantity": 197,
+        "unit": "Q",
+        "low_stock_limit": 5
+    }
+}
